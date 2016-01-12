@@ -1,4 +1,4 @@
-package com.mogujie.pedometer;
+package com.panfei.pedometer;
 
 import android.content.ContentValues;
 import android.content.Context;
